@@ -1,3 +1,13 @@
+* {
+    color: black;
+}
+
+/* body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2_5gIxkYCPRBkAtfx477aAtHV97-hr9o1FiwG6BZXyFAfkizt_kYCqj4qskmDfofbsI&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+
 .abc{
     text-align: center;
     color: rgba(54, 189, 175, 0.511);
