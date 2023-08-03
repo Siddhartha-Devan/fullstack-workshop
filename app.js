@@ -86,25 +86,36 @@
 // console.log(s)
 
 
-car_v = {
-    brand : "toyota",
-    model : "Object",
-    year: 2010,
-    sunroof : {is_p : "no", shape : "adhaan illaye"}
-}
-// car_v.cam = "no"
-// console.log(car_v)
-// console.log(car_v.length)
+// car_v = {
+//     brand : "toyota",
+//     model : "Object",
+//     year: 2010,
+//     sunroof : {is_p : "no", shape : "adhaan illaye"}
+// }
+// // car_v.cam = "no"
+// // console.log(car_v)
+// // console.log(car_v.length)
 
-for (i in car_v) {
-    if (typeof car_v[i] === "object") {
-        console.log("yes")
-        for (j in car_v[i]) {
-            console.log(car_v[i][j])
-        }
-    }
-    else {
-    console.log("else", car_v[i])
-    }
-}
+// for (i in car_v) {
+//     if (typeof car_v[i] === "object") {
+//         console.log("yes")
+//         for (j in car_v[i]) {
+//             console.log(car_v[i][j])
+//         }
+//     }
+//     else {
+//     console.log("else", car_v[i])
+//     }
+// }
+
+
+// console.log(5 + 6)
+
+
+
+
+
+
+
+
 
