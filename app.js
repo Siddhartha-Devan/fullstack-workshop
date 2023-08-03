@@ -18,17 +18,48 @@
 
 
 
-let a = 5
-console.log(a)
+// let a = 5
+// console.log(a)
 
-{
-    let a =7
-    console.log(a)
+// {
+//     let a =7
+//     console.log(a)
+// }
+
+// // let a = 10
+// console.log(a)
+
+// {
+//     console.log(a)
+// }
+
+// a = 20
+// if (a === 0) {
+//     console.log("a is positive : ", a)
+// }
+// else if (a < 0) {
+//    console.log("a is negative : ", a)
+// }
+// else  {
+//     console.log("a is zero : ", a)
+// }
+
+//while loop
+i = 0
+while(i<10) {
+    console.log(i)
+    i++
 }
 
-// let a = 10
-console.log(a)
+console.log("\n")
 
-{
-    console.log(a)
+for (i = 0; i <10; i++) {
+    console.log(i)
 }
+
+console.log("\n")
+
+l1 = [10,20,30,40]
+l1.forEach(i => {
+    console.log(i)
+})
