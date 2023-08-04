@@ -14,3 +14,7 @@ function myfunforfinal(){
     document.getElementById("js_id").innerHTML = "I am currently in my Final year of Ai and Ds"
     
 }
+
+function yeshost(){
+    document.getElementById("js_ids").innerHTML = "The site is hosted on Netlify"
+}

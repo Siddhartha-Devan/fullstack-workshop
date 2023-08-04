@@ -112,6 +112,15 @@
 // console.log(5 + 6)
 
 
+class first_class {
+    time = 12
+    reason = "attempt"
+
+    disp {
+        console.log(this.tmie)
+        console.log(this.reason)
+    }
+}
 
 
 
